@@ -8,7 +8,7 @@ Encargado del repo: gabriela
     </tr>
     <tr>
         <td>Wilfredo</td>
-        <td>Alfa</td>
+        <td></td>
         <td>Venezuela</td>
     </tr>
     <tr>
@@ -23,7 +23,7 @@ Encargado del repo: gabriela
     </tr>
     <tr>
         <td>Gaby</td>
-        <td>Delta</td>
+        <td>Alfa</td>
         <td>Venezuela</td>
     </tr>
   
