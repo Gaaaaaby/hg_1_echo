@@ -8,7 +8,7 @@ Encargado del repo: gabriela
     </tr>
     <tr>
         <td>Wilfredo</td>
-        <td></td>
+        <td>Delta</td>
         <td>Venezuela</td>
     </tr>
     <tr>
